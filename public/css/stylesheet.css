@@ -1,0 +1,118 @@
+/* HEHE Delete*/
+.hæ {
+    color: aqua;
+}
+
+.shæ {
+    color: pink;
+}
+
+.bætween {
+ color: white;
+}
+/*Style Sheet Starts */
+.nav-item {
+    padding: 30px;
+}
+
+.nav-link {
+    transition: all 0.2s;
+    padding-left: 80px;
+    height: 100%;
+}
+
+.nav-link:hover {
+    background-color: rgb(88, 88, 88) !important;
+    border-radius: 10px;
+    color: rgb(255, 255, 255);
+    padding-left: 30px !important;
+    padding-right: 30px !important;
+}
+ 
+.btn {
+    height: 100px;
+    width: 250px;
+    font-size: 24px;
+    font-weight: bolder;
+}
+
+.container {
+    background-image: url(/img/Hero_Section_Baggrund.png);
+    height: calc(100vh - 1rem);
+    background-repeat: no-repeat;
+    background-size: cover;
+    max-width: 2300px;
+}
+
+
+
+.row-a {
+    text-align: center;
+    color: aliceblue;
+    font-size: 6rem;
+    padding-top: 5%;
+    padding-left: 25%;
+    padding-right: 25%;
+    padding-bottom: 200px;
+}
+
+.row-b {
+    text-align: center;
+    font-size: 50PX;
+    color: aliceblue;
+    width: 80%;
+    justify-self: center;
+        background-color: rgba(48, 48, 48, 0.6);
+    padding-left: 10px;
+    padding-right: 10px;
+    padding-top: 20px;
+    padding-bottom: 20px;
+    border-radius: 10px;
+}
+
+
+
+.row-c {
+    display: flex;
+    justify-content: space-evenly;
+    font-size: 50PX;
+    color: aliceblue;
+    padding-top: 200px;
+    padding-left: 40px;
+    padding-right: 40px;
+    max-width: 1700px;
+    width: 80%;
+    text-align: center;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.row-b-btn {
+    background-color: rgba(44, 44, 44, .4);
+    border-radius: 10px;
+    padding-bottom: 20px;
+    color: aliceblue;
+    border-color: rgb(107, 107, 107);
+}
+
+.row-c-btn {
+    background-color: greenyellow;
+    border-radius: 10px;
+    padding-bottom: 40px;
+    padding-top: 40px;
+    padding-left: 40px;
+    padding-right: 40px;
+    color: rgb(0, 0, 0);
+    border-radius: 30px;
+}
+
+.row-c-bt {
+    background-color: rgba(44, 44, 44, .4);
+    border-radius: 10px;
+    padding-bottom: 40px;
+    padding-top: 40px;
+    padding-left: 40px;
+    padding-right: 40px;
+    color: aliceblue;
+    border-radius: 30px;
+}
