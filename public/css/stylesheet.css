@@ -49,7 +49,7 @@
 .row-a {
     text-align: center;
     color: aliceblue;
-    font-size: 4rem;
+    font-size: 60px;
     padding-top: 5%;
     padding-left: 25%;
     padding-right: 25%;
@@ -58,7 +58,7 @@
 
 .row-b {
     text-align: center;
-    font-size: 2rem;
+    font-size: 30px;
     color: aliceblue;
     width: 80%;
     justify-self: center;
@@ -75,7 +75,7 @@
 .row-c {
     display: flex;
     justify-content: space-evenly;
-    font-size: 2rem;
+    font-size: 24px;
     color: aliceblue;
     padding-top: 200px;
     padding-left: 40px;
