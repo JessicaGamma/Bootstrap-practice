@@ -39,7 +39,7 @@
 
 .container {
     background-image: url(/img/Hero_Section_Baggrund.png);
-    height: calc(100vh + 100px);
+    height: 800px;
     background-repeat: no-repeat;
     background-size: cover;
     background-position-x: center;
